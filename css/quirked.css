@@ -1,0 +1,25 @@
+.carousel-caption { color: #6284c5; }
+.carousel .carousel-caption { text-shadow: none; background: rgba(255,255,255,0.9) }
+.carousel-indicators li { border: 1px solid #6284c5; }
+.carousel-indicators .active { background: #6284c5; }
+
+.section-container-wrapper .section-container section#welcome {
+    background: url('../images/bg.jpg') center top;
+    /*background-color: #6284c5;
+    background: -moz-linear-gradient(top, #6284c5 50%, #a971ae 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #6284c5), color-stop(100%, #a971ae));
+    background: -webkit-linear-gradient(top, #6284c5 50%, #a971ae 100%);
+    background: -o-linear-gradient(top, #6284c5 50%, #a971ae 100%);
+    background: -ms-linear-gradient(top, #6284c5 50%, #a971ae 100%);
+    background: linear-gradient(to bottom, #6284c5 50%, #a971ae 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#ff6284c5, endColorstr=#ffa971ae, GradientType=0);*/
+}
+
+.nav-toggle { background-color: #fff; color:#6284c5;  }
+
+.section-container-wrapper .section-container section#welcome .vertically-centered-container .vertically-centered .after-name { color: #bbb; }
+
+.section-container-wrapper .section-container section#welcome a:link, .section-container-wrapper .section-container section#welcome a:visited { color: #FFF; }
+
+.section-container-wrapper .section-container section#welcome .vertically-centered-container .vertically-centered .info i.fa { color:#6284c5; }
+
